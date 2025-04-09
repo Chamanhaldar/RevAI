@@ -1,0 +1,61 @@
+{
+  "hash": "a987d59e",
+  "configHash": "3b782c3e",
+  "lockfileHash": "233b299f",
+  "browserHash": "8b105efa",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "e4351510",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "467ed1ad",
+      "needsInterop": true
+    },
+    "prismjs": {
+      "src": "../../node_modules/prismjs/prism.js",
+      "file": "prismjs.js",
+      "fileHash": "8723d2f7",
+      "needsInterop": true
+    },
+    "react-simple-code-editor": {
+      "src": "../../node_modules/react-simple-code-editor/lib/index.js",
+      "file": "react-simple-code-editor.js",
+      "fileHash": "d36b48e9",
+      "needsInterop": true
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "29bc54f0",
+      "needsInterop": false
+    },
+    "react-markdown": {
+      "src": "../../node_modules/react-markdown/index.js",
+      "file": "react-markdown.js",
+      "fileHash": "b2cf21cc",
+      "needsInterop": false
+    },
+    "rehype-highlight": {
+      "src": "../../node_modules/rehype-highlight/index.js",
+      "file": "rehype-highlight.js",
+      "fileHash": "076b4055",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-6GAV2S6I": {
+      "file": "chunk-6GAV2S6I.js"
+    },
+    "chunk-V4TK4W7H": {
+      "file": "chunk-V4TK4W7H.js"
+    },
+    "chunk-DC5AMYBS": {
+      "file": "chunk-DC5AMYBS.js"
+    }
+  }
+}
